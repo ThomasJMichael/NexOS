@@ -1,0 +1,3 @@
+[submodule "NexOS-Bootloader"]
+	path = NexOS-Bootloader
+	url = git@github.com:ThomasJMichael/NexOS-Bootloader.git
